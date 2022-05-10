@@ -23,13 +23,12 @@ Because of this drawback, students are not focusing on content due to lack of su
 
 We will solve the above-mentioned challenge by applying deep learning algorithms to live video data. The solution to this problem is by recognizing facial emotions.
 
-Presentation link - https://drive.google.com/drive/folders/1dsbYpvk0AYxdmw0cKBByUz_lohq-LXYA?usp=sharing
-
+Presentation link - https://drive.google.com/drive/folders/1xSdt6RAJcM2KCPjRJEgGn9t-qshJ_liX?usp=sharing
 Dataset Information
 The model is trained on the FER-2013 dataset .This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised. Here is the dataset link:- https://www.kaggle.com/msambare/fer2013
 
 Model Creation
-access all created models from here=>https://drive.google.com/drive/folders/18mlUOB_1lFsZSu-d-m04H7wmuLF9A2RU?usp=sharing
+access all created models from here= https://drive.google.com/drive/folders/18mlUOB_1lFsZSu-d-m04H7wmuLF9A2RU?usp=sharing
 
 Using DeepFace
 Deepface is a lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for python. It is a hybrid face recognition framework wrapping state-of-the-art models: VGG-Face, Google FaceNet, OpenFace, Facebook DeepFace, DeepID, ArcFace and Dlib. Those models already reached and passed the human level accuracy. The library is mainly based on TensorFlow and Keras.
@@ -86,4 +85,4 @@ The model created with CNN layers gave training accuracy of 66.64% and validatio
 
 Drawback- not classifying well on disgust images.
 
-Link of Demo video(working in local) - https://drive.google.com/drive/folders/1armAZ5A_DqqbuP--Px-h55-Tvi38JcsL?usp=sharing
+Link of Demo video(working in local) - https://drive.google.com/drive/folders/1IxT8R_uNzqsx7BE3lrOX2P-0cCP8zbQ2?usp=sharing
