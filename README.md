@@ -8,6 +8,7 @@ What is the use and why it is important?
 
 Use of technology to help people with emotion recognition is a relatively nascent research area. Facial expressions are a form of nonverbal communication. Various studies have been done for the classification of these facial expressions. There is strong evidence for the universal facial expressions of seven emotions which include: neutral happy, sadness, anger, disgust, fear, and surprise. So it is very important to detect these emotions on the face as it has wide applications in the field of Computer Vision and Artificial Intelligence. These fields are researching on the facial emotions to get the sentiments of the humans automatically.
 
+![Picture1](https://user-images.githubusercontent.com/86790844/167670775-875ca65a-b63d-4465-b69c-3447347a4f74.png)
 
 
 Problem Statement
