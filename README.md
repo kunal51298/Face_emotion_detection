@@ -34,6 +34,7 @@ access all created models from here= https://drive.google.com/drive/folders/18ml
 Using DeepFace
 Deepface is a lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for python. It is a hybrid face recognition framework wrapping state-of-the-art models: VGG-Face, Google FaceNet, OpenFace, Facebook DeepFace, DeepID, ArcFace and Dlib. Those models already reached and passed the human level accuracy. The library is mainly based on TensorFlow and Keras.
 
+![Picture2](https://user-images.githubusercontent.com/86790844/167671009-4d388fc8-3993-49ee-b681-9107e4bd57c6.png)
 
 
 Inference after using DeepFace
@@ -48,6 +49,7 @@ VGG16 is a convolution neural net (CNN ) architecture which was used to win ILSV
 ResNet-50
 ResNet-50 is a convolutional neural network that is 50 layers deep. You can load a pre-trained version of the network trained on more than a million images from the ImageNet database. The pre-trained network can classify images into 1000 object categories, such as a keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images.
 
+![Picture3](https://user-images.githubusercontent.com/86790844/167671143-6320bd5a-bdc1-4a49-8a30-a7bf8fdfaf1f.png)
 
 
 Inference of ResNet-50
@@ -56,12 +58,14 @@ The training and validation accuracy is 85.71% and training & validation loss al
 Custom CNN Model
 Created a custom CNN model using Conv2D, MaxPooling, BatchNormalization, Dropout and Dense layers. Activation function used is "ReLU". Output layer has 7 nodes with activation function as "Softmax". Adam Optimizer is used in this model. Total params: 4,496,903
 
+![Picture4](https://user-images.githubusercontent.com/86790844/167671221-eb5195cf-7e11-40a3-9f38-8c4ab950b606.jpg)
 
 
 The training accuracy obtained from this model is 66.64% and validation accuracy is 66.10% after 50 epochs. Model is performing good in live video feed.
 
 Loss and accuracy plot
 
+![Picture5](https://user-images.githubusercontent.com/86790844/167671314-456aade9-b083-4f34-a82f-3d9dcadfc8b7.png)
 
 Dependencies
 Python-3
